@@ -5,3 +5,11 @@
 <li>Entendendo como e quando utilizar arrays associativos.</li>
 <li>Conhecendo mais sobre as operações comuns de um array, como ordenação, iteração, inserção e remoção!</li>
 </ul>
+
+#05.1 - Dominando as collections
+<ul>
+<li>Aprendemdo sobre as collections do PHP</li>
+<li>Vendo na prática como utilizar as collections Fila, Pilha, Lista, Set, Map e Heap!</li>
+<li>Entendendo como e onde utilizar as collections da SPL (Standard PHP Library)</li>
+<li>Conheçendo mais sobre os objetos como SplQueue, SplStack, SplDoublyLinkedList,SplObjectStorage e SplHeap! </li>
+</ul>
