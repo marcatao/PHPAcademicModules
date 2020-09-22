@@ -13,3 +13,13 @@
 <li>Entendendo como e onde utilizar as collections da SPL (Standard PHP Library)</li>
 <li>Conheçendo mais sobre os objetos como SplQueue, SplStack, SplDoublyLinkedList,SplObjectStorage e SplHeap! </li>
 </ul>
+
+#05.02 - Laravel - Eventos, filas, upload e e-mail
+
+<ul>
+<li>Aprendendo como enviar e-mails</li>
+<li>Usando filas para o processamento assíncrono</li>
+<li>Notificando e desacople código com eventos</li>
+<li>Como funciona o upload e persistência de arquivos</li>
+<li>Trabalhando com Jobs na sua aplicação</li>
+</ul>
