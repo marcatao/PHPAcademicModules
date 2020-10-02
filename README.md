@@ -23,3 +23,13 @@
 <li>Como funciona o upload e persistência de arquivos</li>
 <li>Trabalhando com Jobs na sua aplicação</li>
 </ul>
+
+#06 - SOLID com PHP: Princípios da programação orientada a objetos
+<ul>
+<li>Aprendendo conceitos avançados de orientação a objetos</li>
+<li>Escrevendo código coeso com Single Responsibility Principle</li>
+<li>Como lidar com acoplamento</li>
+<li>Entendendo a fundo os ganhos do encapsulamento</li>
+<li>Dominando os princípios de código sólido</li>
+<li>Técnicas e exemplos em PHP</li>
+</ul>
